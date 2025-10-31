@@ -5,6 +5,6 @@ Synthetic Athlete Performance Analytics Platform (ETL + SQL + Power BI) Public o
 
 - Python ( pandas, numpy) 
 - SQLite
-- Power Bi
+- Power BI
 - ETL pipline
 - Synthetic athlete dataset
