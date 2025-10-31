@@ -1,0 +1,9 @@
+# Python ignores
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+*.sqlite
+*.db
+*.log
+.DS_Store
